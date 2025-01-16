@@ -1,2 +1,2 @@
 # KGEC
-data link:https://drive.google.com/drive/folders/1uEtFm0YlaRrKxnz4uRTmWZJaO3AReNdJ?usp=sharing
+data link:https://anonymous.4open.science/r/KGEC-1C6D/README.md
